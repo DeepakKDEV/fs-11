@@ -1,6 +1,6 @@
 # welcome to readme-md-generator👋
 
-##🏠Hompage##
+##🏠Hompage
 
     .npm>=5.50
     .node>=9.3.0
